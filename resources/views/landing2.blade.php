@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<!-- Required meta tags --> 
+		<!-- Required meta tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>TeachersMoves</title>
@@ -28,7 +28,7 @@
 				</button>
 				<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
 					<div class="d-lg-none d-flex justify-content-between px-4 py-3 align-items-center">
-						<img src="..img/logo-dark.svg" class="logo-mobile-menu" alt="logo">
+				 	<a class="navbar-brand" href="#">TeachersMoves</a>
 						<a href="javascript:;" class="close-menu"><i class="mdi mdi-close"></i></a>
 					</div>
 					<ul class="navbar-nav ml-auto align-items-center">
@@ -54,7 +54,7 @@
 		</nav>
 
 		<div class="page-body-wrapper">
-             
+
 			<section id="home" class="home">
 
             <!-- <div class="main-banner"> -->
@@ -63,12 +63,12 @@
 										<div class="banner-title">
 
 											<h3 class="font-weight-medium">Teacher's Portal.<br>
-											    A one stop solution to 
+											    A one stop solution to
 											    track teachers over the country.
 											</h3>
 										</div>
 
-                        
+
 										<p class="mt-3">The sole purpose of this portal is to track government teachers
 											<br>
 											which are posted in various schools across India.
@@ -89,12 +89,12 @@
 										<div class="banner-title">
 
 											<h3 class="font-weight-medium">Teacher's Portal.<br>
-											    A one stop solution to 
+											    A one stop solution to
 											    track teachers over the country.
 											</h3>
 										</div>
 
-                        
+
 										<p class="mt-3">The sole purpose of this portal is to track government teachers
 											<br>
 											which are posted in various schools across India.
@@ -127,7 +127,7 @@
 						<div class="col-sm-4 text-center text-lg-left">
 							<div class="services-box" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
 								<img src=" {{ asset('uploads/integrated-marketing.svg') }}" alt="integrated-marketing" data-aos="zoom-in">
-								<h6 class="text-dark mb-3 mt-4 font-weight-medium">Full Fledged 
+								<h6 class="text-dark mb-3 mt-4 font-weight-medium">Full Fledged
 									Tracking solution
 								</h6>
 								<p>Teacher's Tracker is a full fledged solution for tracking of teachers in their entire service duration.
@@ -148,11 +148,11 @@
 						<div class="col-sm-4 text-center text-lg-left">
 							<div class="services-box" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
 								<img src=" {{ asset('uploads/digital-strategy.svg') }}" alt="digital-strategy" data-aos="zoom-in">
-								<h6 class="text-dark mb-3 mt-4 font-weight-medium">Scalability 
-									
+								<h6 class="text-dark mb-3 mt-4 font-weight-medium">Scalability
+
 								</h6>
 								<p>The system can handle the growing pool of teachers efficiently.
-									 
+
 								</p>
 							</div>
 						</div>
@@ -170,7 +170,7 @@
 							<h3 class="font-weight-medium text-dark">Discover New Idea With Us!</h3>
 							<!-- <h5 class="text-dark mb-3">Imagination will take us everywhere</h5> -->
 							<p class="font-weight-medium mb-4">The users of the system will have
-								the following functionalities: 
+								the following functionalities:
 							</p>
 							<div class="d-flex justify-content-start mb-3">
 								<img src="  {{ asset('uploads/tick.png') }}" alt="tick" class="mr-3 tick-icon"  >
@@ -187,7 +187,7 @@
 							<div class="d-flex justify-content-start">
 								<img src="{{ asset('uploads/tick.png') }}" alt="tick" class="mr-3 tick-icon"  >
 								<p class="mb-0">The teacher can access his/her account info and can raise complaints <br>
-								
+
 								</p>
 							</div>
 						</div>
@@ -227,7 +227,7 @@
 									<li>
 										<div class="testimonial-item">
 											<img src=" {{ asset('uploads/fire.jpg') }}" alt="icon" class="testimonial-icons">
-											
+
 											<h6 class="testimonial-author">Diwali MeetUp</h6>
 
 										</div>
@@ -235,7 +235,7 @@
 									<li>
 										<div class="testimonial-item">
 											<img src=" {{ asset('uploads/fire.jpg') }}" alt="icon" class="testimonial-icons">
-										
+
 											<h6 class="testimonial-author">Navratri Fest</h6>
 											<p class="testimonial-destination">DJ Snake</p>
 										</div>
@@ -243,7 +243,7 @@
 									<li>
 										<div class="testimonial-item">
 											<img src=" {{ asset('uploads/fire.jpg') }}" alt="icon" class="testimonial-icons">
-											
+
 											<h6 class="testimonial-author">Winter Vacations</h6>
 
 										</div>
@@ -255,7 +255,7 @@
 					</div>
 				</div>
 			</section>
-			
+
 
 			<section class="contactus" id="contact">
 				<div class="container">
@@ -371,10 +371,10 @@
 								<a class="nav-link btn btn-success" href="{{ route('register') }}">Register</a>
 							</li>
 						</div>
-                        
+
 						<div>
 							<div class="d-flex">
-								<a href="#" class="text-small text-white mx-2 footer-link">Privacy Policy </a>          
+								<a href="#" class="text-small text-white mx-2 footer-link">Privacy Policy </a>
 								<a href="#" class="text-small text-white mx-2 footer-link">Customer Support </a>
 								<a href="#" class="text-small text-white mx-2 footer-link">Careers </a>
 							</div>
