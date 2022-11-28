@@ -29,6 +29,7 @@
 				<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
 					<div class="d-lg-none d-flex justify-content-between px-4 py-3 align-items-center">
 				 	<a class="navbar-brand" href="#">TeachersMoves</a>
+           <a class="navbar-brand" href="#">TeachersMoves</a>
 						<a href="javascript:;" class="close-menu"><i class="mdi mdi-close"></i></a>
 					</div>
 					<ul class="navbar-nav ml-auto align-items-center">
