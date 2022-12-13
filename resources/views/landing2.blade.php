@@ -89,7 +89,7 @@
                                 <div data-aos="zoom-in-up" class="aos-init aos-animate">
 										<div class="banner-title">
 
-											<h3  style="color:blue;"> Teacher's Portal.<br>
+											<h3 class="btn btn-secondary mt-3" style="color:blue;"> Teacher's Portal.<br>
 											    A one stop solution to
 											    track teachers over the country.
 											</h3>
